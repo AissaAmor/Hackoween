@@ -27,7 +27,7 @@ footer .footer-info {
 }
 
 footer .footer-info:before {
-  background: rgba(0, 0, 0, .8);
+  background: #FA6701;
   width: 100%;
   height: 100%;
   display: block;
@@ -228,11 +228,11 @@ footer .footer-info .footer-newsletter .chat-details a i {
 
 
 footer .copyright {
-  background: #000000db;
+  background: #FA6701;
 }
 
 footer .copyright span {
-  color: #999;
+  color: rgb(0, 0, 0);
   line-height: 40px;
 }
 
@@ -245,16 +245,15 @@ footer .copyright span {
 footer .copyright .social-btn-roll {
   border: 1px solid transparent;
   background: 0 0;
-  color: #999;
+  color: rgb(3, 3, 3);
 }
 
 footer {
   padding: 0 !important;
-  background-color: rgba(0, 0, 0, 0.9);
+  background-color: #FA6701;
 }
-
 .copyright a {
   font-size: 14px;
   line-height: 22px;
-  color: #ffffffd1;
+  color: #080808d1;
 }
